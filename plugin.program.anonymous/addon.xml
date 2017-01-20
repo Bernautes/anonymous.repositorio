@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.anonymous.tools" 
+         name="[COLOR red]ANONYMOUS[/COLOR] [COLOR green]Tools[/COLOR]" 
+         version="10.3"
+		 provider-name="Bernas">  
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[COLOR mediumblue][B]Ferramentas[/B][/COLOR] @ [COLOR yellow][B]Essenciais[/B][/COLOR]</summary>
+    <description lang="en">[COLOR white]ANONYMOUS Tools è uma ferramenta suíça, a faca do exército para Kodi. Dá-lhe conrol sobre tudo que você precisa em um lugar! Para suporte entre em contato com Anonymous.Kodi[/COLOR][COLOR yellowgreen][/COLOR][COLOR white] on facebook.[/COLOR]</description>
+    <platform>all</platform>
+  </extension>
+</addon>

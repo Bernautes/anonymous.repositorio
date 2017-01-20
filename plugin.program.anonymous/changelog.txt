@@ -1,0 +1,14 @@
+v10.3 - December
+Added Build Video Showcase
+Fixed The Remove Thumbnails Code
+
+v10.2 - November
+Added 2 Fixes:-
+Debug Screen & YouTube Quota Issues!
+Also Removed 2 APK Scraped Entries!
+
+v10.1 - October
+Repaired The Code That Failed Build Install Cancellation!
+
+v10.0 - September
+New Release With Added Features!

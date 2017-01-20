@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="anonymous.repository" name="[COLOR red]ANONYMOUS[/COLOR] [COLOR green]Tools[/COLOR]" version="0.0.1" provider-name="Bernas">
+	<extension point="xbmc.addon.repository" name="Anonymous Add-on Repository">
+		<info compressed="false">http://raw.github.com/Bernas/anonymous-repository/master/addons.xml</info>
+		<checksum>http://raw.github.com/Bernas/anonymous-repository/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/Bernas/anonymous-repository/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>[COLOR mediumblue][B]Ferramentas[/B][/COLOR] @ [COLOR yellow][B]Essenciais[/B][/COLOR]</summary>
+		<description>[COLOR white]ANONYMOUS Tools è uma ferramenta suíça, a faca do exército para Kodi. Dá-lhe conrol sobre tudo que você precisa em um lugar! Para suporte entre em contato com Anonymous.Kodi[/COLOR][COLOR yellowgreen][/COLOR][COLOR white] on facebook.[/COLOR]</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
